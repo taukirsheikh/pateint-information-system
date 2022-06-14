@@ -579,9 +579,7 @@ def remove_page():
 
 def page():
     global w2, search_box
-    # # w2=Tk()
-    # # w2.geometry('1000x700+122+!)
-    # w2.configure(bg='#8644f4')
+    
     w2=Frame(root,bg='#8644f4')
     w2.place(x=0,y=0, height=1000,width=1500)
     # search and register for patient
