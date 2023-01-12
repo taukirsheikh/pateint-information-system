@@ -1,2 +1,8 @@
 # pateint-information-system
-patient information system to display patient information using voice command and store the patient details in mysql database  using Tkinter 
+`UI`  - Tkinter
+`DB`  - MySql
+`Features`
+-Store and update patient details 
+-Search patient details with voice input of patient id
+-Print patient details
+
